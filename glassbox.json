@@ -1,0 +1,113 @@
+{
+  "slug": "headphonesclear",
+  "box": 222,
+  "date": "2026-11-19",
+  "title": "HeadphonesClear",
+  "question": "How do noise-cancelling headphones work?",
+  "hook": "Noise-cancelling headphones listen to the roar around you, then play its mirror image so the two waves erase each other at your ear. See the flip, race the clock with two microphones, and find out why a jet drone vanishes while a clap does not.",
+  "thumbText": "HOW ANC WORKS",
+  "field": "sound",
+  "minutes": 14,
+  "tags": [
+    "headphones",
+    "noise cancelling",
+    "anc",
+    "sound",
+    "waves",
+    "interference",
+    "audio",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Sound is a push",
+      "text": "A speaker cone pushes the air, and the squeezed and stretched layers travel outward as a wave. The wavelength is the speed of sound, about 343 metres a second, divided by the pitch. A 100 Hz hum is 3.4 metres long. A 2 kHz whistle is 17 centimetres."
+    },
+    {
+      "title": "Add a mirror image",
+      "text": "Two waves in the same place add. If a peak meets a trough they cancel. The headphone plays anti-noise, the noise flipped upside down, from its own tiny speaker. The copy must be the right size and exactly opposite. A phase error of only 10 degrees leaves about a sixth of the sound, or 15 dB of cancelling."
+    },
+    {
+      "title": "A race against time",
+      "text": "An outer microphone hears the noise a fraction of a millisecond before it reaches your ear, and the chip must flip it in that time. That is feedforward ANC. An inner microphone checks what is left, which is feedback ANC. Using both is hybrid. If the electronics are too slow, cancelling fades from the top of the range down."
+    },
+    {
+      "title": "Why a clap gets through",
+      "text": "Anti-noise can only quiet a patch about a tenth of a wavelength across. Low waves are metres long, so the patch is big. High waves are short, so it is tiny. A sudden sound is over before the adaptive filter has learned it. The foam and shell stop the highs, and the anti-noise handles the lows."
+    },
+    {
+      "title": "A seal matters",
+      "text": "ANC needs a sealed cup. A leak lets low sound in around the cushion and lets the anti-noise out, so cancelling suffers most where it should shine. A good fit is half the job."
+    },
+    {
+      "title": "From pilots to earbuds",
+      "text": "The idea was patented in the 1930s and a working ear defender was built in the 1950s. Aircrew headsets came first, then passenger headphones in the 2000s, then earbuds. Transparency mode uses the same outer microphones to play the world back in, so you can hear a voice."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pressure wave",
+      "def": "Squeezed and stretched air that moves outward, passing a push from one layer of air to the next."
+    },
+    {
+      "term": "Frequency",
+      "def": "How many squeezes pass each second, in hertz. Higher frequency sounds higher in pitch."
+    },
+    {
+      "term": "Wavelength",
+      "def": "The distance between one squeeze and the next. It equals the speed of sound divided by frequency."
+    },
+    {
+      "term": "Destructive interference",
+      "def": "When a peak of one wave lines up with a trough of another, so they cancel."
+    },
+    {
+      "term": "Anti-noise",
+      "def": "A copy of the noise with its phase reversed, played so the two cancel at your ear."
+    },
+    {
+      "term": "Feedforward ANC",
+      "def": "An outer microphone measures the noise before it arrives, and the chip works out the anti-noise from it."
+    },
+    {
+      "term": "Feedback ANC",
+      "def": "An inner microphone measures what is left at the ear, and the loop pushes it toward zero."
+    },
+    {
+      "term": "Latency",
+      "def": "The delay between a microphone hearing a sound and the driver playing the anti-noise."
+    },
+    {
+      "term": "Passive isolation",
+      "def": "Blocking sound with the cushion, the seal and the shell. It works best on high pitches."
+    },
+    {
+      "term": "Zone of quiet",
+      "def": "The small region around the microphone where anti-noise cancels well, roughly a tenth of a wavelength across."
+    },
+    {
+      "term": "Transparency mode",
+      "def": "The outer microphones play the outside sound into the cups so you can hear your surroundings."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "headphonesclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

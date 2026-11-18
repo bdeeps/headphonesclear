@@ -1,0 +1,760 @@
+{
+  "title": "The history of noise-cancelling headphones",
+  "tagline": "From a German patent in 1933 and a sketch on a transatlantic flight to the earbuds in your pocket.",
+  "intro": "The idea is simple: play a sound that is the mirror image of the noise, and the two cancel. It was patented in the 1930s, but the electronics of the time could not do it in anything small. It took a working headset in the 1950s, then pilots and aircraft in the 1980s, then cheap chips to bring it to everyone. Some dates in this story are argued over, and this history says so where they are.",
+  "eras": [
+    {
+      "id": "sound",
+      "name": "Waves, speakers and headphones",
+      "from": 1800,
+      "to": 1979,
+      "color": "#c49bff",
+      "summary": "People learn that sound waves can cancel, and build the speakers and headphones that will one day play anti-noise."
+    },
+    {
+      "id": "patent",
+      "name": "Anti-noise on paper and in the lab",
+      "from": 1933,
+      "to": 1977,
+      "color": "#ffb547",
+      "summary": "A German inventor and an American lab patent the idea. A team at RCA builds a working ear defender."
+    },
+    {
+      "id": "flight",
+      "name": "Pilots first",
+      "from": 1978,
+      "to": 1999,
+      "color": "#ff7a59",
+      "summary": "Loud cockpits make the case. Bose and Sennheiser build headsets for aircrew, and two pilots wear one around the world."
+    },
+    {
+      "id": "consumer",
+      "name": "Noise cancelling for passengers",
+      "from": 1995,
+      "to": 2018,
+      "color": "#5ce1a9",
+      "summary": "Sony and Bose sell it to travellers. Digital chips and hybrid designs make it better and smaller."
+    },
+    {
+      "id": "today",
+      "name": "In the ear, all day",
+      "from": 2019,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Earbuds with custom chips adapt to the ear many times a second, and add a mode that lets the world back in."
+    }
+  ],
+  "events": [
+    {
+      "year": 1800,
+      "date": "c. 1800",
+      "era": "sound",
+      "art": "soundwave",
+      "title": "Waves can add and cancel",
+      "who": "Thomas Young",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Around 1800, Thomas Young was using the word interference in his work on sound and light. Two waves that meet can add up or cancel, depending on how they line up. Britannica credits him with establishing the interference of light.",
+      "why": "Cancelling sound with sound is this effect, put to work.",
+      "box": "cancel",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1876,
+      "date": "1876",
+      "era": "sound",
+      "art": "membrane",
+      "title": "Bell patents an electric speaker",
+      "who": "Alexander Graham Bell",
+      "where": "United States",
+      "country": "United States",
+      "text": "Bell patented a moving-iron loudspeaker as part of his telephone, and it could carry speech people could follow. Wikipedia says Johann Philipp Reis had already put a loudspeaker in his own telephone in 1861.",
+      "why": "A thin sheet that moves with an electric signal is still how a headphone makes sound.",
+      "box": "wave",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1891,
+      "date": "1891",
+      "era": "sound",
+      "art": "ear",
+      "title": "In-ear headphones are patented",
+      "who": "Ernest Mercadier",
+      "where": "France",
+      "country": "France",
+      "text": "French engineer Ernest Mercadier patented a set of in-ear headphones. Smithsonian Magazine says they were tiny telephone receivers light enough to sit in the ear.",
+      "why": "Headphones began as a way to free the hands and bring sound close to the ear.",
+      "sources": [
+        26,
+        16
+      ]
+    },
+    {
+      "year": 1898,
+      "date": "1898",
+      "era": "sound",
+      "art": "coil",
+      "title": "A moving coil in a magnet",
+      "who": "Oliver Lodge",
+      "where": "United Kingdom",
+      "country": "United Kingdom",
+      "text": "Wikipedia credits Oliver Lodge with the first experimental moving-coil loudspeaker. A coil in a magnetic field moves when current flows, and it drives a cone that pushes the air.",
+      "why": "It is the design behind most speakers and headphone drivers today.",
+      "box": "wave",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "1910",
+      "era": "sound",
+      "art": "person",
+      "title": "Baldwin's headset for the Navy",
+      "who": "Nathaniel Baldwin",
+      "where": "United States",
+      "country": "United States",
+      "text": "Nathaniel Baldwin, from Utah, sent the US Navy prototype telephone headsets in 1910. The Navy found them better than what it had and ordered more, though sources disagree on how many. Baldwin built them in his kitchen.",
+      "why": "It is often counted as the start of the modern headphone.",
+      "sources": [
+        26,
+        16
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "Filed 1925; patents granted 1929 and 1933",
+      "era": "sound",
+      "art": "magnet",
+      "key": true,
+      "title": "The speaker we still use",
+      "who": "Chester W. Rice and Edward W. Kellogg",
+      "where": "Schenectady, New York, United States",
+      "country": "United States",
+      "text": "At General Electric, Rice and Kellogg developed the cone loudspeaker with a moving coil that is still the standard design. Rice filed his patent in April 1925 and it was granted in 1929. A joint Rice and Kellogg patent, building on a January 1925 application, was granted in 1933.",
+      "why": "A noise-cancelling headphone needs a driver that follows its signal closely, and this design does.",
+      "box": "wave",
+      "sources": [
+        24,
+        25,
+        31
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "27 January 1933 (German filing); US patent filed 8 March 1934, granted 9 June 1936",
+      "era": "patent",
+      "art": "soundwave",
+      "key": true,
+      "title": "A patent to silence sound with sound",
+      "who": "Paul Lueg",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Paul Lueg's patent, Process of Silencing Sound Oscillations, picks up a noise with a microphone, amplifies it and plays it from a loudspeaker in opposite phase, so the two waves cancel. Wikipedia says it covered tones in ducts and also general sound around a loudspeaker.",
+      "why": "It is an early patent that states the whole idea of anti-noise.",
+      "box": "cancel",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "Filed 30 April 1953, granted 9 May 1961",
+      "era": "patent",
+      "art": "microphone",
+      "key": true,
+      "title": "RCA's electronic sound absorber",
+      "who": "Harry F. Olson",
+      "where": "Princeton, New Jersey, United States",
+      "country": "United States",
+      "text": "Olson's patent for RCA describes a microphone, an amplifier and a loudspeaker placed a few inches apart. The speaker plays a signal that cancels the incoming sound. The amplifier can be limited to low sounds, for example up to 200 Hz. One example puts the unit near a passenger's head on an aircraft seat back.",
+      "why": "It shows the same loop that headphones use, aimed at low rumble near the listener.",
+      "box": "loop",
+      "sources": [
+        3,
+        23
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955",
+      "era": "patent",
+      "art": "ear",
+      "title": "RCA tests a noise-cancelling headset",
+      "who": "Elvin D. Simshauser and Mones E. Hawley",
+      "where": "Camden, New Jersey, United States",
+      "country": "United States",
+      "text": "RCA engineers fitted a microphone to each earphone of a military headset, with an amplifier and phase shifter. In pure-tone tests they calculated about 10 dB more noise reduction than the earcap alone, between 100 and 1200 Hz.",
+      "why": "It is an early test of anti-noise at the ear.",
+      "box": "limits",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "1956–1957",
+      "era": "patent",
+      "art": "ear",
+      "key": true,
+      "title": "A working ear defender is built",
+      "who": "Willard Meeker of RCA, with the US Air Force",
+      "where": "United States",
+      "country": "United States",
+      "text": "In 1956–57 the Air Force and RCA built and demonstrated a working active noise reduction headset, led by Willard Meeker. A small microphone sat in the earcup, and the electronics used valves in a unit about the size of a bread box. RCA engineers had tested the idea on headsets in 1955.",
+      "why": "It showed anti-noise could work at the ear, even if the kit was far too big to carry.",
+      "box": "limits",
+      "sources": [
+        4,
+        28
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958",
+      "era": "sound",
+      "art": "notes",
+      "title": "The first stereo headphones",
+      "who": "John C. Koss",
+      "where": "Milwaukee, United States",
+      "country": "United States",
+      "text": "Musician and entrepreneur John C. Koss of Milwaukee made the first commercial stereo headphones. Until then, headphones were for work. Now they were also a way to hear music in private.",
+      "why": "Music listeners would later become the main buyers of noise cancelling.",
+      "sources": [
+        26,
+        27,
+        16
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959 (paper 1960)",
+      "era": "patent",
+      "art": "digital",
+      "title": "The LMS filter learns by trial",
+      "who": "Bernard Widrow and Ted Hoff",
+      "where": "Stanford University, United States",
+      "country": "United States",
+      "text": "Bernard Widrow says he and his student Ted Hoff found the least-mean-squares (LMS) algorithm in 1959, his first year at Stanford. Their paper on it came out in 1960. It nudges a filter's settings, again and again, to shrink an error.",
+      "why": "Adaptive filters of this kind can keep adjusting as conditions change.",
+      "box": "loop",
+      "sources": [
+        8,
+        7
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978",
+      "era": "flight",
+      "art": "plane",
+      "key": false,
+      "title": "A sketch on a flight",
+      "who": "Amar Bose",
+      "where": "Over the Atlantic",
+      "country": "United States",
+      "text": "Bose's company history says Amar Bose was given headphones on a transatlantic flight in 1978 and could not hear the music over the noise. It says he worked out the maths for noise cancelling before landing. Other accounts differ on details.",
+      "why": "A loudspeaker engineer's frustration started the road to the commercial product.",
+      "box": "world",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1979",
+      "era": "sound",
+      "art": "notes",
+      "title": "The Walkman goes everywhere",
+      "who": "Sony",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Sony's Walkman debuted in 1979 and quickly became an icon. People began to wear headphones on streets, trains and planes.",
+      "why": "Noisy places created demand for quieter headphones.",
+      "sources": [
+        26,
+        16
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984 (request); 1987 (launch)",
+      "era": "flight",
+      "art": "plane",
+      "title": "Sennheiser builds NoiseGard for Lufthansa",
+      "who": "Sennheiser",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Worried about cockpit noise, Lufthansa asked Sennheiser in 1984 for a solution, which led to its NoiseGard technology. The LHM 45, launched in 1987, was the first active noise-cancelling headset to get FAA TSO certification. Sennheiser had made its first pilot headset for Lufthansa in 1982.",
+      "why": "Airlines and pilots, not music fans, were the first customers.",
+      "box": "world",
+      "sources": [
+        22,
+        2
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "14–23 December 1986",
+      "era": "flight",
+      "art": "plane",
+      "key": true,
+      "title": "Round the world with Bose on their heads",
+      "who": "Jeana Yeager and Dick Rutan",
+      "where": "Edwards Air Force Base, California, United States",
+      "country": "United States",
+      "text": "Bose says it gave two prototype headsets to Dick Rutan and Jeana Yeager to protect their hearing on Voyager. The plane took off from Edwards Air Force Base on 14 December 1986 and landed there on 23 December, after 216 hours, 3 minutes and 44 seconds. It was the first nonstop flight round the world without refuelling.",
+      "why": "It was a hard test of the headset: nine days in a loud, cramped plane.",
+      "box": "world",
+      "sources": [
+        5,
+        10,
+        9,
+        30
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1989 (some sources say as early as 1986)",
+      "era": "flight",
+      "art": "plane",
+      "key": true,
+      "title": "The first commercial ANC headset, claimed",
+      "who": "Bose",
+      "where": "United States",
+      "country": "United States",
+      "text": "Bose's own history calls its 1989 aviation headset the first commercial acoustic noise-cancelling headset. Wikipedia says the date it went on sale is disputed, between 1986 and 1989.",
+      "why": "Pilots could now fly with less noise and less hearing risk.",
+      "box": "world",
+      "sources": [
+        5,
+        10,
+        2
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "flight",
+      "art": "scroll",
+      "title": "A landmark review of active noise control",
+      "who": "Stephen J. Elliott and Philip A. Nelson",
+      "where": "IEEE Signal Processing Magazine",
+      "country": "United Kingdom",
+      "text": "Stephen Elliott and Philip Nelson published Active Noise Control in IEEE Signal Processing Magazine in October 1993. It explains the aims and electrical methods of systems that cancel sound by interference, and why low sounds suit the method.",
+      "why": "It gathered the ideas that engineers still teach.",
+      "box": "cancel",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "consumer",
+      "art": "ear",
+      "title": "Sony's first noise-cancelling headphones",
+      "who": "Sony",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Sony says it released the MDR-NC10 and MDR-NC20 in 1995 as the first consumer noise-cancelling headphones. Their circuit was analogue.",
+      "why": "Noise cancelling began to leave the cockpit.",
+      "box": "world",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "1996",
+      "era": "consumer",
+      "art": "scroll",
+      "title": "A book on the digital method",
+      "who": "Sen M. Kuo and Dennis R. Morgan",
+      "where": "New York, United States (Wiley)",
+      "country": "United States",
+      "text": "Wiley published Active Noise Control Systems: Algorithms and DSP Implementations by Sen Kuo and Dennis Morgan. It is about building noise controllers with digital signal processing.",
+      "why": "Digital chips were becoming the way to build the controller.",
+      "box": "loop",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "consumer",
+      "art": "ear",
+      "key": true,
+      "title": "QuietComfort for passengers",
+      "who": "Bose",
+      "where": "United States",
+      "country": "United States",
+      "text": "Bose says its QuietComfort headphones took noise reduction from the cockpit to airline passengers. MIT Technology Review, writing in 2003, put their launch three years earlier.",
+      "why": "It made noise cancelling something people could buy for a flight.",
+      "box": "world",
+      "sources": [
+        5,
+        10
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008",
+      "era": "consumer",
+      "art": "digital",
+      "title": "Sony goes digital",
+      "who": "Sony",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Sony says its MDR-NC500D, released in 2008, were the first headphones with digital noise cancelling. TechCrunch reported the claim in April 2008.",
+      "why": "A digital chip can adapt to the place you are in.",
+      "box": "loop",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "28 October 2019",
+      "era": "today",
+      "art": "chip",
+      "key": true,
+      "title": "AirPods Pro bring it in-ear",
+      "who": "Apple",
+      "where": "California, United States",
+      "country": "United States",
+      "text": "Apple announced AirPods Pro on 28 October 2019. They have one microphone facing out and one facing the ear, and Apple says the cancelling adapts 200 times a second. The H1 chip has 10 audio cores. A Transparency mode lets the outside world in. They cost $249 in the US.",
+      "why": "It packed outward and inward microphones, adaptive processing and an ambient mode into a tiny earbud.",
+      "box": "world",
+      "sources": [
+        11,
+        29
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "12 June 2023",
+      "era": "today",
+      "art": "ear",
+      "key": true,
+      "title": "Measuring today's best",
+      "who": "Nicky Chong-White, Jorge Mejia and Brent Edwards",
+      "where": "Sydney, Australia (National Acoustic Laboratories)",
+      "country": "Australia",
+      "text": "In a 2023 lab test on a head-and-torso manikin, AirPods Pro 2 cut about 35 dB at 250 Hz and about 27 dB on average. With noise cancelling off, the seal alone cut about 30 dB above 3000 Hz. Low sounds were hardly blocked.",
+      "why": "It shows both halves of the story: anti-noise handles low sounds, and the seal handles high ones.",
+      "box": "limits",
+      "sources": [
+        12,
+        19
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Patent for noise control by anti-phase sound",
+      "value": "Filed 1933 (Germany), US patent granted 1936",
+      "who": "Paul Lueg, Germany"
+    },
+    {
+      "label": "Working ANC ear defender demonstrated",
+      "value": "1956–57",
+      "who": "Willard Meeker and RCA, with the US Air Force"
+    },
+    {
+      "label": "First ANC headset to get FAA technical standard order certification (per Sennheiser)",
+      "value": "1987",
+      "who": "Sennheiser LHM-45, Germany"
+    },
+    {
+      "label": "First commercial ANC aviation headset (claimed by Bose, disputed)",
+      "value": "1989",
+      "who": "Bose, United States"
+    },
+    {
+      "label": "Bose QuietComfort headphones for passengers",
+      "value": "2000",
+      "who": "Bose, United States"
+    }
+  ],
+  "people": [
+    {
+      "name": "Thomas Young",
+      "life": "1773 – 1829",
+      "role": "Scientist",
+      "from": "England",
+      "note": "Used the word interference for the way waves add and cancel."
+    },
+    {
+      "name": "Chester W. Rice and Edward W. Kellogg",
+      "life": "",
+      "role": "Engineers",
+      "from": "United States",
+      "note": "Patented the moving-coil cone speaker that is still the standard."
+    },
+    {
+      "name": "Paul Lueg",
+      "life": "",
+      "role": "Inventor",
+      "from": "Germany",
+      "note": "His patent describes cancelling sound with an opposite-phase wave."
+    },
+    {
+      "name": "Harry F. Olson",
+      "life": "1901 – 1982",
+      "role": "Acoustical engineer at RCA",
+      "from": "United States",
+      "note": "His 1953 patent describes an electronic sound absorber. Wikipedia gives two different birth days in December 1901."
+    },
+    {
+      "name": "Willard F. Meeker",
+      "life": "",
+      "role": "Engineer at RCA",
+      "from": "United States",
+      "note": "Led the project that built a working active ear defender for the Air Force."
+    },
+    {
+      "name": "Bernard Widrow and Ted Hoff",
+      "life": "",
+      "role": "Professor and student",
+      "from": "United States",
+      "note": "Invented the LMS algorithm that adaptive filters build on."
+    },
+    {
+      "name": "Amar Bose",
+      "life": "1929 – 2013",
+      "role": "Engineer and founder of Bose",
+      "from": "United States, born to a Bengali father and an American mother",
+      "note": "Bose's company history says he began working out noise cancelling on a flight in 1978."
+    },
+    {
+      "name": "Jeana Yeager",
+      "life": "born 1952",
+      "role": "Pilot",
+      "from": "United States",
+      "note": "Co-pilot of Voyager, who wore a Bose prototype headset on the first nonstop flight round the world. We did not find a woman credited as an ANC inventor in the sources we opened."
+    },
+    {
+      "name": "Dick Rutan",
+      "life": "",
+      "role": "Pilot",
+      "from": "United States",
+      "note": "Flew Voyager with Yeager and wore the other prototype headset."
+    },
+    {
+      "name": "Stephen J. Elliott and Philip A. Nelson",
+      "life": "",
+      "role": "Acoustics researchers",
+      "from": "",
+      "note": "Wrote the 1993 review of active noise control."
+    },
+    {
+      "name": "Sen M. Kuo and Dennis R. Morgan",
+      "life": "",
+      "role": "Engineers",
+      "from": "United States",
+      "note": "Wrote the book on digital active noise control systems."
+    }
+  ],
+  "series": [
+    {
+      "id": "attenuation",
+      "title": "How much noise a headset can cut",
+      "unit": "dB of noise reduction",
+      "log": false,
+      "after": "today",
+      "caption": "Two lab figures from very different tests, so use them only as a rough guide. The 1955 value is a calculated extra reduction over a plain earcap, and the 2023 value is a measured average across frequencies.",
+      "points": [
+        {
+          "year": 1955,
+          "value": 10,
+          "label": "RCA 1955 headset: about 10 dB more than the earcap alone, calculated for 100–1200 Hz"
+        },
+        {
+          "year": 2023,
+          "value": 27,
+          "label": "AirPods Pro 2 on a manikin: about 27 dB on average (about 35 dB at 250 Hz)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "A 200 Hz tone has a wavelength of about 1.7 metres (5.6 feet). Olson's patent put the microphone and speaker only a few inches apart, so they hear nearly the same wave.",
+    "Apple says the AirPods Pro adjust their noise cancelling 200 times per second.",
+    "Voyager's round-the-world flight lasted 216 hours, 3 minutes and 44 seconds, according to the Smithsonian.",
+    "Active noise control suits low sounds, because their long waves are easier to match with a second source.",
+    "In the 2023 lab test, with noise cancelling off, a good seal cut about 30 dB above 3000 Hz, but low sounds were hardly blocked."
+  ],
+  "sources": [
+    {
+      "title": "US2043416A: Process of silencing sound oscillations (Paul Lueg)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2043416A/en"
+    },
+    {
+      "title": "Active noise control",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Active_noise_control"
+    },
+    {
+      "title": "Noise-cancelling headphones",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Noise-cancelling_headphones"
+    },
+    {
+      "title": "US2983790A: Electronic sound absorber (Harry F. Olson, RCA)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2983790A/en"
+    },
+    {
+      "title": "Auditory and Acoustic Research and Development at the Air Force Research Laboratory (Acoustics Today, Winter 2010, p. 26)",
+      "publisher": "Acoustical Society of America",
+      "url": "https://acousticstoday.org/issues/2010AT/Jan2010/files/basic-html/page26.html"
+    },
+    {
+      "title": "History",
+      "publisher": "Bose Aviation",
+      "url": "https://boseaviation.com/about/history/"
+    },
+    {
+      "title": "Amar Bose",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amar_Bose"
+    },
+    {
+      "title": "Bernard Widrow",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bernard_Widrow"
+    },
+    {
+      "title": "Oral-History: Bernard Widrow",
+      "publisher": "Engineering and Technology History Wiki (IEEE History Center)",
+      "url": "https://ethw.org/Oral-History:Bernard_Widrow"
+    },
+    {
+      "title": "Rutan Voyager",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/rutan-voyager/nasm_A19880548000"
+    },
+    {
+      "title": "The Sound of Silence",
+      "publisher": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2003/07/09/234148/the-sound-of-silence/"
+    },
+    {
+      "title": "Apple reveals new AirPods Pro, available October 30",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2019/10/apple-reveals-new-airpods-pro-available-october-30/"
+    },
+    {
+      "title": "Evaluating Apple AirPods Pro 2 Hearing Protection and Listening",
+      "publisher": "The Hearing Review",
+      "url": "https://hearingreview.com/inside-hearing/research/evaluating-apple-airpods-pro-2-for-hearing-protection-and-listening"
+    },
+    {
+      "title": "The Inside Story of the \"World's Best\" Noise Canceling - A History of Sony and Noise Canceling",
+      "publisher": "Sony Corporation",
+      "url": "https://note.com/sonycorporation/n/n3556f3ffad26?hl=en"
+    },
+    {
+      "title": "Sony claims world's first digital noise cancelling headphones",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/?p=24360"
+    },
+    {
+      "title": "Loudspeaker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Loudspeaker"
+    },
+    {
+      "title": "Headphones",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Headphones"
+    },
+    {
+      "title": "Wave interference",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wave_interference"
+    },
+    {
+      "title": "Thomas Young",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Thomas-Young"
+    },
+    {
+      "title": "Active noise control (S. J. Elliott and P. A. Nelson, 1993)",
+      "publisher": "IEEE Signal Processing Magazine (IEEE Xplore)",
+      "url": "https://ieeexplore.ieee.org/abstract/document/248551"
+    },
+    {
+      "title": "Active noise control systems: algorithms and DSP implementations (Kuo and Morgan, 1996)",
+      "publisher": "CiNii Books (National Institute of Informatics, Japan)",
+      "url": "https://ci.nii.ac.jp/ncid/BA2749209X?l=en"
+    },
+    {
+      "title": "Active noise control systems (Sen M. Kuo)",
+      "publisher": "Open Library (Internet Archive)",
+      "url": "https://openlibrary.org/works/OL2958961W/Active_noise_control_systems"
+    },
+    {
+      "title": "Sennheiser Celebrates 70 Years of Innovation",
+      "publisher": "Aviation Pros",
+      "url": "https://www.aviationpros.com/aircraft-maintenance-technology/engines-parts/aircraft-airframe-accessories/cabin-communications/press-release/12069813/sennheiser-sennheiser-celebrates-70-years-of-innovation"
+    },
+    {
+      "title": "Harry F. Olson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harry_F._Olson"
+    },
+    {
+      "title": "US1707570A: Loud-speaker (Chester W. Rice, General Electric)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US1707570A/en"
+    },
+    {
+      "title": "US1894197A: Sound reproducing apparatus (C. W. Rice and E. W. Kellogg)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US1894197A/en"
+    },
+    {
+      "title": "A Partial History of Headphones",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/arts-culture/a-partial-history-of-headphones-4693742/"
+    },
+    {
+      "title": "Koss Corporation",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/koss-corporation"
+    },
+    {
+      "title": "The Noise-Cancelling Headset: An Active Ear Defender (Simshauser and Hawley, 1955)",
+      "publisher": "Journal of the Acoustical Society of America",
+      "url": "https://pubs.aip.org/asa/jasa/article/27/1_Supplement/207/730285/The-Noise-Cancelling-Headset-An-Active-Ear"
+    },
+    {
+      "title": "AirPods Pro",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AirPods_Pro"
+    },
+    {
+      "title": "Jeana Yeager",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jeana_Yeager"
+    },
+    {
+      "title": "C.W. Rice",
+      "publisher": "Edison Tech Center",
+      "url": "https://edisontechcenter.org/CWrice.html"
+    }
+  ]
+}
